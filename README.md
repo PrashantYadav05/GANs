@@ -1,1 +1,1 @@
-# GANs
+# Generative Advesarial Network (GANs)
